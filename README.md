@@ -2,6 +2,8 @@
 
 ## Parte 1: Cómo ejecutar programas en Lubuntu
 
+Para más detalles, consulta la [Parte 1](programas/parte1.md).
+
 ### Pasos para ejecutar el programa en Lubuntu
 
 1. **Abrir la terminal**:

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(){
+int main() {
     int i;
     double f;
     f=765476.0;
