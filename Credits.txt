@@ -1,0 +1,20 @@
+# Créditos
+
+Este proyecto utiliza los siguientes programas y bibliotecas:
+
+1. **POSIX Threads (pthreads)**:
+   - Descripción: Biblioteca para la programación de hilos en sistemas Unix/Linux.
+   - URL: https://man7.org/linux/man-pages/man7/pthreads.7.html
+
+2. **Funciones de procesos en Unix/Linux**:
+   - Descripción: Funciones del sistema operativo para la creación y manejo de procesos.
+   - URL: https://man7.org/linux/man-pages/man2/fork.2.html
+
+3. **GitHub Copilot**:
+    - Descripción: Herramienta de inteligencia artificial generativa que asistió en la creación de gran parte del código.
+    - URL: https://github.com/features/copilot
+
+    4. **Profesor Genesio de Stefano**:
+        - Descripción: Proporcionó los programas (cpu-eater & io-eater) utilizados para la actividad.
+
+Agradecimientos especiales a todos los desarrolladores y mantenedores de estas herramientas.
