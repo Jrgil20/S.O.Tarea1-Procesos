@@ -6,7 +6,7 @@
 #define NUM_THREADS 4
 
 void* cpu_intensive_task(void* arg) {
-    double result = 0.0;
+    volatile double result = 0.0; // Declarar como volatile para evitar optimizacion
     while (1) {
         for (int i = 1; i < 1000000; ++i) {
             result += sin(i) * tan(i);
