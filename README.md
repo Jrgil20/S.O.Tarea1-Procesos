@@ -43,9 +43,9 @@ Estos pasos te permitirán ejecutar tu programa en Lubuntu de manera efectiva.
 
 ## Parte 2: Hilos y Procesos en Lubuntu
 
-### Hilos
+### Hilos en C
 
-Los hilos permiten la ejecución concurrente de tareas dentro de un mismo proceso. En Lubuntu, puedes trabajar con hilos utilizando varios lenguajes de programación como C, C++, Python, entre otros.
+Los hilos permiten la ejecución concurrente de tareas dentro de un mismo proceso. En Lubuntu, puedes trabajar con hilos utilizando varios lenguajes de programación como C, C++, Python, entre otros. Para más detalles, consulta  [hilos](threads/hilos.md).
 
 #### Ejemplo en C
 
@@ -121,7 +121,7 @@ En este ejemplo, se crea una barrera para 5 hilos. Cada hilo se detiene en la ba
 
 ### Procesos
 
-Los procesos son instancias de programas en ejecución. En Lubuntu, puedes crear procesos utilizando la terminal o programando en C, Python, entre otros lenguajes. 
+Los procesos son instancias de programas en ejecución. En Lubuntu, puedes crear procesos utilizando la terminal o programando en C, Python, entre otros lenguajes. Para más detalles, consulta [Procesos](process/Procesos.md).
 
 #### Crear un proceso en la terminal
 
@@ -184,3 +184,5 @@ time ./mi_programa.sh
 ```
 
 Estos pasos te permitirán trabajar con hilos, procesos y medir el tiempo de ejecución de tus programas en Lubuntu.
+
+para mas herramientas de monitoreo  [monitoreo](programas/monitoreo.md).
